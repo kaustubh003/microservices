@@ -31,4 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
-/section_11/docker-compose/prod/.data/
+
+### Data ###
+.data/
