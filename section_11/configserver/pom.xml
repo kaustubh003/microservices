@@ -76,7 +76,7 @@
 				<version>3.4.2</version>
 				<configuration>
 					<to>
-						<image>kaustubh003/${project.artifactId}:s12</image>
+						<image>kaustubh003/${project.artifactId}:s11</image>
 					</to>
 				</configuration>
 			</plugin>

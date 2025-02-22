@@ -10,19 +10,14 @@ spring:
           enabled: false
           lowerCaseServiceId: true
       httpclient:
-        connect-timeout: 2000
-        response-timeout: 60s
+        connect-timeout: 1000
+        response-timeout: 10s
   data:
     redis:
       connect-timeout: 2s
       host: localhost
       port: 6379
       timeout: 1s
-  security:
-    oauth2:
-      resourceserver:
-        jwt:
-          jwk-set-uri: "http://localhost:7080/realms/master/protocol/openid-connect/certs"
 
 management:
   endpoints:
