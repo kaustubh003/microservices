@@ -1,5 +1,9 @@
 # Master Microservices with Spring Boot, Docker, Kubernetes
 
+Instructor - Madan Reddy 
+
+[Link to course](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/?referralCode=9365DB9B7EE637F629A9)
+
 Learn how to create enterprise and production ready Microservices with Spring, Spring Cloud, Docker and Kubernetes.
 
 ## Topics covered in the course
