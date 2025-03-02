@@ -2,7 +2,7 @@
 
 Instructor - Madan Reddy 
 
-[Link to course](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/?referralCode=9365DB9B7EE637F629A9)
+[Link to course](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/)
 
 Learn how to create enterprise and production ready Microservices with Spring, Spring Cloud, Docker and Kubernetes.
 
