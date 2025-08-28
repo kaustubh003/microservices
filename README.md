@@ -6,8 +6,6 @@ Instructor - Madan Reddy
 
 Learn how to create enterprise and production ready Microservices with Spring, Spring Cloud, Docker and Kubernetes.
 
-*** The commits reversed and reapplied in this repo are because of local git branch commits screw-up. Please ignore since usually local git branch is not used in production. ***
-
 ## Topics covered in the course
 * Section 1 - Introduction to Microservices Architecture
 * Section 2- Building microservices using Spring Boot
